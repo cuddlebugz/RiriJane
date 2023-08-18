@@ -1,12 +1,13 @@
 <h1>Hi, I'm Riri! <br/><a href="https://www.linkedin.com/in/reniealmiral/">System Engineer</a></h1>
 
 <h2>🎓 Education</h2>
-- <b>[Bachelor of Science HES-SO en Informatique de gestion - Haute Ecole de Gestion de Genève (Mai 8 2023)]()</b>
+- <b>Bachelor of Science HES-SO en Informatique de gestion - Haute Ecole de Gestion de Genève (Mai 8 2023)</b>
 
 <h2>📜 Certifications </h2>
 - <b>Training Completion Certificates</b>
-  - [CCNA Routing and Switching: Introduction to Networks - 13th February 2020]()
-  - [CCNA Routing and Switching: Connecting Networks - 26th June 2020]() 
+
+  - CCNA Routing and Switching: Introduction to Networks - 13th February 2020
+  - CCNA Routing and Switching: Connecting Networks - 26th June 2020
 
 <h2>👨‍💻 Cybersecurity Home Lab Projects:</h2>
 
