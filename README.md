@@ -10,13 +10,14 @@
 
 <h2>👨‍💻 Cybersecurity Home Lab Projects:</h2>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>📱Connect with me:</h2>
 
 [<img align="left" alt="RenieAlmiral | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="RenieAlmiral | PicoCTF" width="22px" src="https://cdn4.iconfinder.com/data/icons/game-production-9/64/63-256.png"/>][picoCTF]
 
-
-[picoCTF]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/reniealmiral
+[picoCTF]: https://play.picoctf.org/users/ririjane
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
