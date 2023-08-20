@@ -11,6 +11,9 @@
 
 <h2>👨‍💻 Cybersecurity Home Lab Projects:</h2>
 
+<h2>📓 Some other projects</h2>
+- [Hive Data Extraction from Hadoop](https://github.com/RiriJane/hive-data-extraction-from-hadoop/tree/main)
+
 <h2>📱Connect with me:</h2>
 
 [<img align="left" alt="RenieAlmiral | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
