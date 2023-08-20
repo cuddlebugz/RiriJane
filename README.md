@@ -4,15 +4,19 @@
 - <b>Bachelor of Science HES-SO en Informatique de gestion - Haute Ecole de Gestion de Genève (Mai 8 2023)</b>
 
 <h2>📜 Certifications </h2>
-- <b>Training Completion Certificates</b>
 
+- <b>Training Completion Certificates</b>
   - CCNA Routing and Switching: Introduction to Networks - 13th February 2020
   - CCNA Routing and Switching: Connecting Networks - 26th June 2020
 
 <h2>👨‍💻 Cybersecurity Home Lab Projects:</h2>
 
+
 <h2>📓 Some other projects</h2>
-- [Hive Data Extraction from Hadoop](https://github.com/RiriJane/hive-data-extraction-from-hadoop/tree/main)
+
+- [Hive data extraction from Hadoop](https://github.com/RiriJane/hive-data-extraction-from-hadoop/tree/main)
+ 
+
 
 <h2>📱Connect with me:</h2>
 
