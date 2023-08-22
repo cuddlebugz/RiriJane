@@ -1,43 +1,44 @@
-<h1>Hi, I'm Riri! <br/><a href="https://www.linkedin.com/in/reniealmiral/">System Engineer</a></h1>
+<center>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D865F7&background=C31B6B00&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hi+there%2C+I'm+Riri+!;Welcome+to+my+Github+page+!)](https://git.io/typing-svg)
 
-<h2>🎓 Education</h2>
-- <b>Bachelor of Science HES-SO en Informatique de gestion - Haute Ecole de Gestion de Genève (Mai 8 2023)</b>
+</center>
 
-<h2>📜 Certifications </h2>
+<H1>Fun facts about me</H1>
 
+- I love to sing 🎤
+- I love scrapbooking 🖼️
+- I love playing VR 🕹️
+- I love to read Crime, Mystery and Romance books 📚
+- I'm a [System Engineer](https://linkedin.com/in/reniealmiral)
+
+
+<h1>🎓 Education</h1>
+
+- Bachelor of Science HES-SO en Informatique de gestion - Haute Ecole de Gestion de Genève (Mai 8 2023)</b>
+
+<h1>📜 Certifications</h1>
+  
 - <b>Training Completion Certificates</b>
   - CCNA Routing and Switching: Introduction to Networks - 13th February 2020
   - CCNA Routing and Switching: Connecting Networks - 26th June 2020
 
-<h2>👨‍💻 Cybersecurity Home Lab Projects:</h2>
+<h1>👨‍💻 Cybersecurity Projects</h1>
 
+- [PicoCTF challenges](https://github.com/RiriJane/picoCTF-journey)
 
-<h2>📓 Some other projects</h2>
+<h1>📓 Some other projects</h1>
 
 - [Hive data extraction from Hadoop](https://github.com/RiriJane/hive-data-extraction-from-hadoop/tree/main)
- 
 
-
-<h2>📱Connect with me:</h2>
+<h1>📱Connect with me:</h1>
 
 [<img align="left" alt="RenieAlmiral | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RenieAlmiral | PicoCTF" width="22px" src="https://cdn4.iconfinder.com/data/icons/game-production-9/64/63-256.png"/>][picoCTF]
+[<img align="left" alt="RenieAlmiral | goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />][goodreads]
 
 [linkedin]: https://linkedin.com/in/reniealmiral
 [picoCTF]: https://play.picoctf.org/users/ririjane
+[goodreads]: https://www.goodreads.com/user/show/137146381-riri-jane
 
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
