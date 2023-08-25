@@ -1,8 +1,8 @@
-<center>
+<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D865F7&background=C31B6B00&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hi+there%2C+I'm+Riri+!;Welcome+to+my+Github+page+!)](https://git.io/typing-svg)
 
-</center>
+</div>
 
 <H1>Fun facts about me</H1>
 
