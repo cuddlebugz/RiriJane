@@ -15,7 +15,7 @@
 
 <h1>🎓 Education</h1>
 
-- Bachelor of Science HES-SO en Informatique de gestion - Haute Ecole de Gestion de Genève (Mai 8 2023)</b>
+- Bachelor of Science HES-SO en Informatique de gestion - Haute Ecole de Gestion de Genève (8th May 2023)</b>
 
 <h1>📜 Certifications</h1>
   
