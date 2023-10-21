@@ -15,7 +15,8 @@
 
 <h1>🎓 Education</h1>
 
-- Bachelor of Science HES-SO en Informatique de gestion - Haute Ecole de Gestion de Genève (8th May 2023)</b>
+- [Diploma of Advanced Studies - Gouvernance de la sécurité des systèmes d'information (2023 - en cours)](https://www.hesge.ch/heg/formations/formation-continue/formations-diplomantes/diploma-advanced-studies-das/gouvernance-securite-des-systemes-information#apercu-de-la-formation)
+- [Bachelor of Science HES-SO en Informatique de gestion - Haute Ecole de Gestion de Genève (2018-2023)</b>](https://www.hesge.ch/heg/formations/bachelors/informatique-gestion#apercu-de-la-formation)
 
 <h1>📜 Certifications</h1>
   
