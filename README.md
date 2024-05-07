@@ -10,7 +10,7 @@
 - I love scrapbooking 🖼️
 - I love playing VR 🕹️
 - I love to read Crime, Mystery and Romance books 📚
-- I'm a [System Engineer](https://linkedin.com/in/reniealmiral)
+
 
 
 <h1>🎓 Education</h1>
@@ -26,7 +26,7 @@
 
 <h1>👨‍💻 Cybersecurity Projects</h1>
 
-- [PicoCTF challenges](https://github.com/RiriJane/picoCTF-journey)
+- [PicoCTF challenges](https://github.com/cuddlebugz/picoCTF-journey)
 - [TP Audit sur la gouvernance SI d'une entreprise - Approche par vecteurs](https://github.com/RiriJane/audit-approche-vecteurs)
 
 <h1>📓 Some other projects</h1>
