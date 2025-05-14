@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75DE4&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+I'm+cuddlebugz+!;Welcome+to+my+GitHub+Page+%3A)](https://git.io/typing-svg)
 
-
+</br>
 
 </div>
 
