@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75DE4&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+I'm+cuddlebugz+!;Welcome+to+my+GitHub+Page+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75DE4&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+I'm+cuddlebugz+!;Welcome+to+my+GitHub+Page+%3A)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,9 +14,9 @@
 
 
 <h1>🎓 Education</h1>
-- [ISO 27001 Lead Implementor Training](https://www.abileneacademy.ch/en/courses/category-information-security/3)
-- [Diploma of Advanced Studies - Gouvernance de la sécurité des systèmes d'information (2023 - 2024)](https://www.hesge.ch/heg/formations/formation-continue/formations-diplomantes/diploma-advanced-studies-das/gouvernance-securite-des-systemes-information#apercu-de-la-formation)
-- [Bachelor of Science HES-SO en Informatique de gestion - Haute Ecole de Gestion de Genève (2018-2023)</b>](https://www.hesge.ch/heg/formations/bachelors/informatique-gestion#apercu-de-la-formation)
+* [ISO 27001 Lead Implementor Training](https://www.abileneacademy.ch/en/courses/category-information-security/3)
+* [Diploma of Advanced Studies - Gouvernance de la sécurité des systèmes d'information (2023 - 2024)](https://www.hesge.ch/heg/formations/formation-continue/formations-diplomantes/diploma-advanced-studies-das/gouvernance-securite-des-systemes-information#apercu-de-la-formation)
+* [Bachelor of Science HES-SO en Informatique de gestion - Haute Ecole de Gestion de Genève (2018-2023)</b>](https://www.hesge.ch/heg/formations/bachelors/informatique-gestion#apercu-de-la-formation)
 
 <h1>📜 Certifications</h1>
   
